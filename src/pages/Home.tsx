@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <PageWrapper forceReadableWidth>
       <h1>What I Do</h1>
-      <p>19 y/o developer, innovator and investor.</p>
+      <p>B. 2000</p>
       <p>
         I design, build and publish products of quality and reliability.
         Currently, I'm a co-founder and developer at{" "}
